@@ -3,3 +3,16 @@ p{
     padding: 40px;
     background-color: tomato;
 }
+/* input{
+    color: rgb(230, 84, 17);
+    margin: 50px;
+    padding: 30px;
+    border: 10px solid rgb(132, 121, 25);
+} */
+input[type=password]{
+    color: rgb(230, 84, 17);
+    margin: 50px;
+    padding: 30px;
+    border: 10px solid rgb(132, 121, 25);
+}
+
